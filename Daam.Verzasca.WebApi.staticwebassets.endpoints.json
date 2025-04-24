@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "ManifestType": "Publish",
+  "ManifestType": "Build",
   "Endpoints": [
     {
       "Route": "reports/GoodsReceipt.rdl",
@@ -81,6 +81,88 @@
         {
           "Name": "label",
           "Value": "reports/GoodsReceipt.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/Invoice.k44ha6y67z.rdl",
+      "AssetFile": "reports/Invoice.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3A6LVl32PeeOYCaBxGp9eHqVXbeZkD0svh0NHf0pJUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 04:39:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k44ha6y67z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3A6LVl32PeeOYCaBxGp9eHqVXbeZkD0svh0NHf0pJUQ="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/Invoice.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/Invoice.rdl",
+      "AssetFile": "reports/Invoice.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3A6LVl32PeeOYCaBxGp9eHqVXbeZkD0svh0NHf0pJUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 04:39:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3A6LVl32PeeOYCaBxGp9eHqVXbeZkD0svh0NHf0pJUQ="
         }
       ]
     },

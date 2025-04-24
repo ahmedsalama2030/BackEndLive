@@ -130,5 +130,6 @@
   "InvoiceNotFound": "لم يتم العثور على الفاتورة.",
   "InvoiceCreatedSuccessfully": "تم إنشاء الفاتورة بنجاح مع الدفعات.",
   "InvoiceUpdatedSuccessfully": "تم تحديث الفاتورة بنجاح.",
-  "Common_PositionAlreadyAssigned": "هذه الوظيفة مسندة بالفعل إلى موظف آخر. يرجى اختيار وظيفة مختلفة."
+  "Common_PositionAlreadyAssigned": "هذه الوظيفة مسندة بالفعل إلى موظف آخر. يرجى اختيار وظيفة مختلفة.",
+  "FoundRequestPending":"يوجد طلب لهذأالعميل تحت الموافقة"
 }
