@@ -85,51 +85,6 @@
       ]
     },
     {
-      "Route": "reports/Invoice.k44ha6y67z.rdl",
-      "AssetFile": "reports/Invoice.rdl",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "76114"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3A6LVl32PeeOYCaBxGp9eHqVXbeZkD0svh0NHf0pJUQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 04:39:57 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "k44ha6y67z"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3A6LVl32PeeOYCaBxGp9eHqVXbeZkD0svh0NHf0pJUQ="
-        },
-        {
-          "Name": "label",
-          "Value": "reports/Invoice.rdl"
-        }
-      ]
-    },
-    {
       "Route": "reports/Invoice.rdl",
       "AssetFile": "reports/Invoice.rdl",
       "Selectors": [],
@@ -144,7 +99,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "76114"
+          "Value": "106669"
         },
         {
           "Name": "Content-Type",
@@ -152,17 +107,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3A6LVl32PeeOYCaBxGp9eHqVXbeZkD0svh0NHf0pJUQ=\""
+          "Value": "\"iVH7kpFCH/hTTzUD/Jm0KQPEXVAoUn/YbJly23W2++I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 04:39:57 GMT"
+          "Value": "Wed, 30 Apr 2025 16:20:39 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3A6LVl32PeeOYCaBxGp9eHqVXbeZkD0svh0NHf0pJUQ="
+          "Value": "sha256-iVH7kpFCH/hTTzUD/Jm0KQPEXVAoUn/YbJly23W2++I="
+        }
+      ]
+    },
+    {
+      "Route": "reports/Invoice.xqopweb5zg.rdl",
+      "AssetFile": "reports/Invoice.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iVH7kpFCH/hTTzUD/Jm0KQPEXVAoUn/YbJly23W2++I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 16:20:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xqopweb5zg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iVH7kpFCH/hTTzUD/Jm0KQPEXVAoUn/YbJly23W2++I="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/Invoice.rdl"
         }
       ]
     },
