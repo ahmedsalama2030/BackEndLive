@@ -167,6 +167,88 @@
       ]
     },
     {
+      "Route": "reports/PrintSalesOrder.auf4wlyz9c.rdl",
+      "AssetFile": "reports/PrintSalesOrder.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mp0CCDYvplQkIhfoS56+6qtxQ2uMhZ4haSMpLrI82TE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 03:28:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "auf4wlyz9c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mp0CCDYvplQkIhfoS56+6qtxQ2uMhZ4haSMpLrI82TE="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/PrintSalesOrder.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/PrintSalesOrder.rdl",
+      "AssetFile": "reports/PrintSalesOrder.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mp0CCDYvplQkIhfoS56+6qtxQ2uMhZ4haSMpLrI82TE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 03:28:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mp0CCDYvplQkIhfoS56+6qtxQ2uMhZ4haSMpLrI82TE="
+        }
+      ]
+    },
+    {
       "Route": "reports/QRCoder.9y0fla3v7z.dll",
       "AssetFile": "reports/QRCoder.dll",
       "Selectors": [],

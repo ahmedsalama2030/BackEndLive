@@ -130,6 +130,20 @@
   "InvoiceCreatedSuccessfully": "Invoice created successfully with payments.",
   "InvoiceUpdatedSuccessfully": "Invoice updated successfully.",
   "Common_PositionAlreadyAssigned": "This position is already assigned to another employee. Please choose a different position.",
-  "FoundRequestPending" :"There is a request for this customer. It has been approved."
+  "FoundRequestPending": "There is a request for this customer. It has been approved.",
+  "DateConflict": "There is a date conflict with other plans for this representative",
+  "CannotApproveCurrent": "Cannot approve the current plan",
+  "NoVisits": "Cannot approve a plan without visits",
+  "NotFound": "Plan not found",
+  "SourceNotFound": "Source plan not found",
+  "NewVisitPlanTitle": "New visit plan",
+  "NewVisitPlanDescription": "Visit plan {0} has been approved",
+  "VisitPostponedTitle": "Visit postponed",
+  "VisitPostponedDescription": "Visit for client {0} has been postponed",
+  "CannotModifyCompleted": "Cannot modify a completed visit",
+  "CannotAddToApprovedPlan": "Cannot add visits to an approved plan",
+  "ScheduleConflict": "There is a scheduling conflict with other visits"
+
+
 
 }

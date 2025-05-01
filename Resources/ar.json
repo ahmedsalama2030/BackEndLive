@@ -131,5 +131,17 @@
   "InvoiceCreatedSuccessfully": "تم إنشاء الفاتورة بنجاح مع الدفعات.",
   "InvoiceUpdatedSuccessfully": "تم تحديث الفاتورة بنجاح.",
   "Common_PositionAlreadyAssigned": "هذه الوظيفة مسندة بالفعل إلى موظف آخر. يرجى اختيار وظيفة مختلفة.",
-  "FoundRequestPending":"يوجد طلب لهذأالعميل تحت الموافقة"
+  "FoundRequestPending": "يوجد طلب لهذأالعميل تحت الموافقة",
+  "DateConflict": "يوجد تعارض في التواريخ مع خطط أخرى للمندوب",
+  "CannotApproveCurrent": "لا يمكن اعتماد الخطة الحالية",
+  "NoVisits": "لا يمكن اعتماد خطة بدون زيارات",
+  "NotFound": "الخطة غير موجودة",
+  "SourceNotFound": "الخطة الأصلية غير موجودة",
+  "NewVisitPlanTitle": "خطة زيارات جديدة",
+  "NewVisitPlanDescription": "تم اعتماد خطة الزيارات {0}",
+  "CannotModifyCompleted": "لا يمكن تعديل زيارة منتهية",
+  "CannotAddToApprovedPlan": "لا يمكن إضافة زيارات لخطة معتمدة",
+  "ScheduleConflict": "يوجد تعارض في مواعيد الزيارات",
+  "VisitPostponedTitle": "تأجيل زيارة",
+  "VisitPostponedDescription": "تم تأجيل زيارة العميل {0}"
 }
