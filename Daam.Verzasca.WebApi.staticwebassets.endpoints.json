@@ -3,6 +3,88 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+      "Route": "reports/CollectionReport.rdl",
+      "AssetFile": "reports/CollectionReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93722"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5SqZAVaCv7MOUObIRzDFy+vxmc+2fUqoMzmHNAMY5dE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 05:49:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5SqZAVaCv7MOUObIRzDFy+vxmc+2fUqoMzmHNAMY5dE="
+        }
+      ]
+    },
+    {
+      "Route": "reports/CollectionReport.tqqqt1o731.rdl",
+      "AssetFile": "reports/CollectionReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93722"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5SqZAVaCv7MOUObIRzDFy+vxmc+2fUqoMzmHNAMY5dE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 05:49:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tqqqt1o731"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5SqZAVaCv7MOUObIRzDFy+vxmc+2fUqoMzmHNAMY5dE="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/CollectionReport.rdl"
+        }
+      ]
+    },
+    {
       "Route": "reports/GoodsReceipt.rdl",
       "AssetFile": "reports/GoodsReceipt.rdl",
       "Selectors": [],
