@@ -142,7 +142,12 @@
   "VisitPostponedDescription": "Visit for client {0} has been postponed",
   "CannotModifyCompleted": "Cannot modify a completed visit",
   "CannotAddToApprovedPlan": "Cannot add visits to an approved plan",
-  "ScheduleConflict": "There is a scheduling conflict with other visits"
+  "ScheduleConflict": "There is a scheduling conflict with other visits",
+  "NoEmployeeOnThisPosition": "No employee exist on This Position",
+  "SalesRequestNotFound": "Sales request not found",
+  "SalesRequestConvertedToOfferOrder": "Sales request successfully converted to offer order",
+  "ErrorConvertingSalesRequest": "Error converting sales request to offer order"
+
 
 
 

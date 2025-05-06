@@ -143,5 +143,9 @@
   "CannotAddToApprovedPlan": "لا يمكن إضافة زيارات لخطة معتمدة",
   "ScheduleConflict": "يوجد تعارض في مواعيد الزيارات",
   "VisitPostponedTitle": "تأجيل زيارة",
-  "VisitPostponedDescription": "تم تأجيل زيارة العميل {0}"
+  "VisitPostponedDescription": "تم تأجيل زيارة العميل {0}",
+  "NoEmployeeOnThisPosition": "لا يوجد موظفين في هذا القسم",
+  "SalesRequestNotFound": "طلب المبيعات غير موجود",
+  "SalesRequestConvertedToOfferOrder": "تم تحويل طلب المبيعات إلى عرض أسعار بنجاح",
+  "ErrorConvertingSalesRequest": "خطأ في تحويل طلب المبيعات إلى عرض أسعار"
 }
