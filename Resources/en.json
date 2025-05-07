@@ -146,9 +146,7 @@
   "NoEmployeeOnThisPosition": "No employee exist on This Position",
   "SalesRequestNotFound": "Sales request not found",
   "SalesRequestConvertedToOfferOrder": "Sales request successfully converted to offer order",
-  "ErrorConvertingSalesRequest": "Error converting sales request to offer order"
-
-
-
+  "ErrorConvertingSalesRequest": "Error converting sales request to offer order",
+  "MustAddSalesRequestDtails": "You must add sales request details"
 
 }

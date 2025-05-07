@@ -147,5 +147,6 @@
   "NoEmployeeOnThisPosition": "لا يوجد موظفين في هذا القسم",
   "SalesRequestNotFound": "طلب المبيعات غير موجود",
   "SalesRequestConvertedToOfferOrder": "تم تحويل طلب المبيعات إلى عرض أسعار بنجاح",
-  "ErrorConvertingSalesRequest": "خطأ في تحويل طلب المبيعات إلى عرض أسعار"
+  "ErrorConvertingSalesRequest": "خطأ في تحويل طلب المبيعات إلى عرض أسعار",
+  "MustAddSalesRequestDtails": "يجب إضافة تفاصيل طلب المبيعات"
 }
