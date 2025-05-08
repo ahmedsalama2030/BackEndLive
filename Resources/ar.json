@@ -148,5 +148,9 @@
   "SalesRequestNotFound": "طلب المبيعات غير موجود",
   "SalesRequestConvertedToOfferOrder": "تم تحويل طلب المبيعات إلى عرض أسعار بنجاح",
   "ErrorConvertingSalesRequest": "خطأ في تحويل طلب المبيعات إلى عرض أسعار",
-  "MustAddSalesRequestDtails": "يجب إضافة تفاصيل طلب المبيعات"
+  "MustAddSalesRequestDtails": "يجب إضافة تفاصيل طلب المبيعات",
+  "RequestRejectedNotificationTitle": "تم رفض الطلب",
+  "RequestRejectedNotificationDescription": "تم رفض طلبك '{0}' من قبل {1}. السبب: {2}",
+  "RequestReturnedNotificationTitle": "تم إرجاع الطلب للمراجعة",
+  "RequestReturnedNotificationDescription": "تم إرجاع الطلب '{0}' إليك من قبل {1} لمراجعة إضافية. التعليقات: {2}"
 }

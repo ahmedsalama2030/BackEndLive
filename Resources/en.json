@@ -147,6 +147,10 @@
   "SalesRequestNotFound": "Sales request not found",
   "SalesRequestConvertedToOfferOrder": "Sales request successfully converted to offer order",
   "ErrorConvertingSalesRequest": "Error converting sales request to offer order",
-  "MustAddSalesRequestDtails": "You must add sales request details"
+  "MustAddSalesRequestDtails": "You must add sales request details",
+  "RequestRejectedNotificationTitle": "Request Rejected",
+  "RequestRejectedNotificationDescription": "Your request '{0}' has been rejected by {1}. Reason: {2}",
+  "RequestReturnedNotificationTitle": "Request Returned for Revision",
+  "RequestReturnedNotificationDescription": "The request '{0}' has been returned to you by {1} for additional review. Comments: {2}"
 
 }
