@@ -939,7 +939,7 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>ر.س</Value>
+                                  <Value />
                                   <Style />
                                 </TextRun>
                               </TextRuns>
@@ -1164,7 +1164,7 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value />
+                                  <Value>ر.س</Value>
                                   <Style />
                                 </TextRun>
                               </TextRuns>
@@ -2524,7 +2524,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>طلب بيع </Value>
+                    <Value>أمر بيع</Value>
                     <Style>
                       <FontSize>14pt</FontSize>
                       <FontWeight>Bold</FontWeight>
