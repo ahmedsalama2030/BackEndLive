@@ -176,7 +176,7 @@
               </TablixColumns>
               <TablixRows>
                 <TablixRow>
-                  <Height>0.57883cm</Height>
+                  <Height>0.95983cm</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -189,7 +189,10 @@
                               <TextRuns>
                                 <TextRun>
                                   <Value>ملاحظات</Value>
-                                  <Style />
+                                  <Style>
+                                    <FontFamily>Cairo Medium</FontFamily>
+                                    <Color>White</Color>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style>
@@ -221,7 +224,7 @@
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </RightBorder>
-                            <BackgroundColor>LightGrey</BackgroundColor>
+                            <BackgroundColor>#4f5869</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -241,8 +244,11 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>الاجمالى</Value>
-                                  <Style />
+                                  <Value>الإجمالى</Value>
+                                  <Style>
+                                    <FontFamily>Cairo Medium</FontFamily>
+                                    <Color>White</Color>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style>
@@ -274,7 +280,7 @@
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </RightBorder>
-                            <BackgroundColor>LightGrey</BackgroundColor>
+                            <BackgroundColor>#4f5869</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -294,8 +300,11 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>سعر الوحدة</Value>
-                                  <Style />
+                                  <Value>السعر</Value>
+                                  <Style>
+                                    <FontFamily>Cairo Medium</FontFamily>
+                                    <Color>White</Color>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style>
@@ -327,7 +336,7 @@
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </RightBorder>
-                            <BackgroundColor>LightGrey</BackgroundColor>
+                            <BackgroundColor>#4f5869</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -348,7 +357,10 @@
                               <TextRuns>
                                 <TextRun>
                                   <Value>الكمية</Value>
-                                  <Style />
+                                  <Style>
+                                    <FontFamily>Cairo Medium</FontFamily>
+                                    <Color>White</Color>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style>
@@ -380,7 +392,7 @@
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </RightBorder>
-                            <BackgroundColor>LightGrey</BackgroundColor>
+                            <BackgroundColor>#4f5869</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -400,8 +412,11 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>الوحده</Value>
-                                  <Style />
+                                  <Value>الوحدة</Value>
+                                  <Style>
+                                    <FontFamily>Cairo Medium</FontFamily>
+                                    <Color>White</Color>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style>
@@ -433,7 +448,7 @@
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </RightBorder>
-                            <BackgroundColor>LightGrey</BackgroundColor>
+                            <BackgroundColor>#4f5869</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -453,8 +468,11 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>إسم الصنف</Value>
-                                  <Style />
+                                  <Value>الصنف</Value>
+                                  <Style>
+                                    <FontFamily>Cairo Medium</FontFamily>
+                                    <Color>White</Color>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style>
@@ -486,7 +504,7 @@
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </RightBorder>
-                            <BackgroundColor>LightGrey</BackgroundColor>
+                            <BackgroundColor>#4f5869</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -507,7 +525,10 @@
                               <TextRuns>
                                 <TextRun>
                                   <Value>كود</Value>
-                                  <Style />
+                                  <Style>
+                                    <FontFamily>Cairo Medium</FontFamily>
+                                    <Color>White</Color>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style>
@@ -539,7 +560,7 @@
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </RightBorder>
-                            <BackgroundColor>LightGrey</BackgroundColor>
+                            <BackgroundColor>#4f5869</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -927,7 +948,7 @@
                   </TablixCells>
                 </TablixRow>
                 <TablixRow>
-                  <Height>0.473cm</Height>
+                  <Height>0.76933cm</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -950,7 +971,7 @@
                           </Paragraphs>
                           <Style>
                             <Border>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
                             <TopBorder>
                               <Color>Black</Color>
@@ -962,17 +983,6 @@
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
-                            <BackgroundColor>WhiteSmoke</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -1005,7 +1015,7 @@
                           </Paragraphs>
                           <Style>
                             <Border>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
                             <TopBorder>
                               <Color>Black</Color>
@@ -1017,17 +1027,6 @@
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
-                            <BackgroundColor>WhiteSmoke</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -1058,7 +1057,7 @@
                           </Paragraphs>
                           <Style>
                             <Border>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
                             <TopBorder>
                               <Color>Black</Color>
@@ -1070,17 +1069,6 @@
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
-                            <BackgroundColor>WhiteSmoke</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -1113,7 +1101,7 @@
                           </Paragraphs>
                           <Style>
                             <Border>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
                             <TopBorder>
                               <Color>Black</Color>
@@ -1125,17 +1113,6 @@
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
-                            <BackgroundColor>WhiteSmoke</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -1177,7 +1154,7 @@
                             <Border>
                               <Style>None</Style>
                             </Border>
-                            <BackgroundColor>WhiteSmoke</BackgroundColor>
+                            <BackgroundColor>LightGrey</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -1198,7 +1175,9 @@
                               <TextRuns>
                                 <TextRun>
                                   <Value>=Fields!TotalDiscount.Value</Value>
-                                  <Style />
+                                  <Style>
+                                    <Color>Red</Color>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style>
@@ -1208,29 +1187,9 @@
                           </Paragraphs>
                           <Style>
                             <Border>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
-                            <TopBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </TopBorder>
-                            <BottomBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
-                            <BackgroundColor>WhiteSmoke</BackgroundColor>
+                            <BackgroundColor>LightGrey</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -1261,29 +1220,9 @@
                           </Paragraphs>
                           <Style>
                             <Border>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
-                            <TopBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </TopBorder>
-                            <BottomBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
-                            <BackgroundColor>WhiteSmoke</BackgroundColor>
+                            <BackgroundColor>LightGrey</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -1314,29 +1253,9 @@
                           </Paragraphs>
                           <Style>
                             <Border>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
-                            <TopBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </TopBorder>
-                            <BottomBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
-                            <BackgroundColor>WhiteSmoke</BackgroundColor>
+                            <BackgroundColor>LightGrey</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -1378,6 +1297,16 @@
                             <Border>
                               <Style>None</Style>
                             </Border>
+                            <TopBorder>
+                              <Color>Black</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>Black</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </BottomBorder>
                             <BackgroundColor>WhiteSmoke</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
@@ -1409,7 +1338,7 @@
                           </Paragraphs>
                           <Style>
                             <Border>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
                             <TopBorder>
                               <Color>Black</Color>
@@ -1421,16 +1350,6 @@
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
                             <BackgroundColor>WhiteSmoke</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
@@ -1462,7 +1381,7 @@
                           </Paragraphs>
                           <Style>
                             <Border>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
                             <TopBorder>
                               <Color>Black</Color>
@@ -1474,16 +1393,6 @@
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
                             <BackgroundColor>WhiteSmoke</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
@@ -1504,7 +1413,7 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>الاجمالي قبل الخصم</Value>
+                                  <Value>الاجمالي بعد الخصم</Value>
                                   <Style />
                                 </TextRun>
                               </TextRuns>
@@ -1515,7 +1424,7 @@
                           </Paragraphs>
                           <Style>
                             <Border>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
                             <TopBorder>
                               <Color>Black</Color>
@@ -1527,16 +1436,6 @@
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
                             <BackgroundColor>WhiteSmoke</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
@@ -1579,7 +1478,12 @@
                             <Border>
                               <Style>None</Style>
                             </Border>
-                            <BackgroundColor>WhiteSmoke</BackgroundColor>
+                            <BottomBorder>
+                              <Color>Black</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </BottomBorder>
+                            <BackgroundColor>LightGrey</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -1600,7 +1504,9 @@
                               <TextRuns>
                                 <TextRun>
                                   <Value>=Fields!VAT.Value</Value>
-                                  <Style />
+                                  <Style>
+                                    <Color>LimeGreen</Color>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style>
@@ -1610,29 +1516,14 @@
                           </Paragraphs>
                           <Style>
                             <Border>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
-                            <TopBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </TopBorder>
                             <BottomBorder>
                               <Color>Black</Color>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
-                            <BackgroundColor>WhiteSmoke</BackgroundColor>
+                            <BackgroundColor>LightGrey</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -1663,29 +1554,14 @@
                           </Paragraphs>
                           <Style>
                             <Border>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
-                            <TopBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </TopBorder>
                             <BottomBorder>
                               <Color>Black</Color>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
-                            <BackgroundColor>WhiteSmoke</BackgroundColor>
+                            <BackgroundColor>LightGrey</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -1717,29 +1593,14 @@
                           </Paragraphs>
                           <Style>
                             <Border>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
-                            <TopBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </TopBorder>
                             <BottomBorder>
                               <Color>Black</Color>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
-                            <BackgroundColor>WhiteSmoke</BackgroundColor>
+                            <BackgroundColor>LightGrey</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
@@ -1757,7 +1618,7 @@
                   </TablixCells>
                 </TablixRow>
                 <TablixRow>
-                  <Height>0.6cm</Height>
+                  <Height>0.981cm</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -1782,21 +1643,6 @@
                             <Border>
                               <Style>None</Style>
                             </Border>
-                            <BottomBorder>
-                              <Color>Black</Color>
-                              <Style>Dotted</Style>
-                              <Width>1pt</Width>
-                            </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Dotted</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Dotted</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
                             <BackgroundColor>WhiteSmoke</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
@@ -1828,28 +1674,8 @@
                           </Paragraphs>
                           <Style>
                             <Border>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
-                            <TopBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </TopBorder>
-                            <BottomBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
                             <BackgroundColor>WhiteSmoke</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
@@ -1881,28 +1707,8 @@
                           </Paragraphs>
                           <Style>
                             <Border>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
-                            <TopBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </TopBorder>
-                            <BottomBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
                             <BackgroundColor>WhiteSmoke</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
@@ -1934,28 +1740,8 @@
                           </Paragraphs>
                           <Style>
                             <Border>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
-                            <TopBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </TopBorder>
-                            <BottomBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </BottomBorder>
-                            <LeftBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </LeftBorder>
-                            <RightBorder>
-                              <Color>Black</Color>
-                              <Style>Solid</Style>
-                              <Width>1pt</Width>
-                            </RightBorder>
                             <BackgroundColor>WhiteSmoke</BackgroundColor>
                             <VerticalAlign>Middle</VerticalAlign>
                             <PaddingLeft>2pt</PaddingLeft>
@@ -2013,7 +1799,7 @@
             <DataSetName>DsReport</DataSetName>
             <Top>5.98795cm</Top>
             <Left>0.60781cm</Left>
-            <Height>4.05183cm</Height>
+            <Height>5.11016cm</Height>
             <Width>19.48327cm</Width>
             <Style>
               <Border>
@@ -2052,7 +1838,7 @@
                     <Value>شركة أعمال المدن للتشغيل والصيانة</Value>
                     <Style>
                       <FontStyle>Normal</FontStyle>
-                      <FontFamily>Times New Roman</FontFamily>
+                      <FontFamily>Cairo Black</FontFamily>
                       <FontSize>16pt</FontSize>
                       <FontWeight>Normal</FontWeight>
                       <TextDecoration>None</TextDecoration>
@@ -2065,10 +1851,10 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>0.61948cm</Top>
-            <Left>11.49442cm</Left>
+            <Top>0.28081cm</Top>
+            <Left>9.35659cm</Left>
             <Height>1.34111cm</Height>
-            <Width>8.40616cm</Width>
+            <Width>10.73449cm</Width>
             <ZIndex>1</ZIndex>
             <Style>
               <Border>
@@ -2090,23 +1876,27 @@
                 <TextRuns>
                   <TextRun>
                     <Value>إسم العميل</Value>
-                    <Style />
+                    <Style>
+                      <FontFamily>Cairo Medium</FontFamily>
+                      <FontSize>7pt</FontSize>
+                    </Style>
                   </TextRun>
                 </TextRuns>
                 <Style>
-                  <TextAlign>Right</TextAlign>
+                  <TextAlign>Left</TextAlign>
                 </Style>
               </Paragraph>
             </Paragraphs>
             <Top>3.65446cm</Top>
-            <Left>17.53464cm</Left>
+            <Left>17.69691cm</Left>
             <Height>0.6cm</Height>
-            <Width>2.5cm</Width>
+            <Width>2.33067cm</Width>
             <ZIndex>2</ZIndex>
             <Style>
               <Border>
                 <Style>None</Style>
               </Border>
+              <BackgroundColor>#f6f7f9</BackgroundColor>
               <VerticalAlign>Middle</VerticalAlign>
               <PaddingLeft>2pt</PaddingLeft>
               <PaddingRight>2pt</PaddingRight>
@@ -2123,23 +1913,27 @@
                 <TextRuns>
                   <TextRun>
                     <Value>المندوب</Value>
-                    <Style />
+                    <Style>
+                      <FontFamily>Cairo Medium</FontFamily>
+                      <FontSize>7pt</FontSize>
+                    </Style>
                   </TextRun>
                 </TextRuns>
                 <Style>
-                  <TextAlign>Right</TextAlign>
+                  <TextAlign>Left</TextAlign>
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>4.88974cm</Top>
-            <Left>17.59108cm</Left>
+            <Top>5.20724cm</Top>
+            <Left>17.69691cm</Left>
             <Height>0.6cm</Height>
-            <Width>2.5cm</Width>
+            <Width>2.33067cm</Width>
             <ZIndex>3</ZIndex>
             <Style>
               <Border>
                 <Style>None</Style>
               </Border>
+              <BackgroundColor>#f6f7f9</BackgroundColor>
               <VerticalAlign>Middle</VerticalAlign>
               <PaddingLeft>2pt</PaddingLeft>
               <PaddingRight>2pt</PaddingRight>
@@ -2156,16 +1950,19 @@
                 <TextRuns>
                   <TextRun>
                     <Value>المنطقة</Value>
-                    <Style />
+                    <Style>
+                      <FontFamily>Cairo SemiBold</FontFamily>
+                      <FontSize>7pt</FontSize>
+                    </Style>
                   </TextRun>
                 </TextRuns>
                 <Style>
-                  <TextAlign>Right</TextAlign>
+                  <TextAlign>Left</TextAlign>
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>4.32501cm</Top>
-            <Left>6.33689cm</Left>
+            <Top>4.44496cm</Top>
+            <Left>6.37924cm</Left>
             <Height>0.6cm</Height>
             <Width>2.5cm</Width>
             <ZIndex>4</ZIndex>
@@ -2173,6 +1970,7 @@
               <Border>
                 <Style>None</Style>
               </Border>
+              <BackgroundColor>#f6f7f9</BackgroundColor>
               <VerticalAlign>Middle</VerticalAlign>
               <PaddingLeft>2pt</PaddingLeft>
               <PaddingRight>2pt</PaddingRight>
@@ -2198,7 +1996,7 @@
               </Paragraph>
             </Paragraphs>
             <Top>3.65446cm</Top>
-            <Left>10.33728cm</Left>
+            <Left>10.33022cm</Left>
             <Height>0.6cm</Height>
             <Width>7.18324cm</Width>
             <ZIndex>5</ZIndex>
@@ -2235,8 +2033,8 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>4.325cm</Top>
-            <Left>0.64308cm</Left>
+            <Top>4.44496cm</Top>
+            <Left>0.61487cm</Left>
             <Height>0.6cm</Height>
             <Width>5.62325cm</Width>
             <ZIndex>6</ZIndex>
@@ -2273,8 +2071,8 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>4.88974cm</Top>
-            <Left>10.33728cm</Left>
+            <Top>5.20724cm</Top>
+            <Left>10.28788cm</Left>
             <Height>0.6cm</Height>
             <Width>7.22558cm</Width>
             <ZIndex>7</ZIndex>
@@ -2313,8 +2111,8 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>3.68972cm</Top>
-            <Left>0.60781cm</Left>
+            <Top>3.65446cm</Top>
+            <Left>0.64636cm</Left>
             <Height>0.6cm</Height>
             <Width>5.62325cm</Width>
             <ZIndex>8</ZIndex>
@@ -2345,8 +2143,8 @@
                     <Value>التاريخ</Value>
                     <Style>
                       <FontStyle>Normal</FontStyle>
-                      <FontFamily>Times New Roman</FontFamily>
-                      <FontSize>12pt</FontSize>
+                      <FontFamily>Cairo SemiBold</FontFamily>
+                      <FontSize>7pt</FontSize>
                       <FontWeight>Normal</FontWeight>
                       <TextDecoration>None</TextDecoration>
                       <Color>#000000</Color>
@@ -2354,12 +2152,12 @@
                   </TextRun>
                 </TextRuns>
                 <Style>
-                  <TextAlign>Right</TextAlign>
+                  <TextAlign>Left</TextAlign>
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>3.68972cm</Top>
-            <Left>6.26634cm</Left>
+            <Top>3.65444cm</Top>
+            <Left>6.37924cm</Left>
             <Height>0.6cm</Height>
             <Width>2.5cm</Width>
             <ZIndex>9</ZIndex>
@@ -2367,6 +2165,7 @@
               <Border>
                 <Style>None</Style>
               </Border>
+              <BackgroundColor>#f6f7f9</BackgroundColor>
               <VerticalAlign>Middle</VerticalAlign>
               <PaddingLeft>2pt</PaddingLeft>
               <PaddingRight>2pt</PaddingRight>
@@ -2383,23 +2182,27 @@
                 <TextRuns>
                   <TextRun>
                     <Value>كود العميل</Value>
-                    <Style />
+                    <Style>
+                      <FontFamily>Cairo Medium</FontFamily>
+                      <FontSize>7pt</FontSize>
+                    </Style>
                   </TextRun>
                 </TextRuns>
                 <Style>
-                  <TextAlign>Right</TextAlign>
+                  <TextAlign>Left</TextAlign>
                 </Style>
               </Paragraph>
             </Paragraphs>
             <Top>2.94863cm</Top>
-            <Left>17.52758cm</Left>
+            <Left>17.69691cm</Left>
             <Height>0.6cm</Height>
-            <Width>2.5cm</Width>
+            <Width>2.33067cm</Width>
             <ZIndex>10</ZIndex>
             <Style>
               <Border>
                 <Style>None</Style>
               </Border>
+              <BackgroundColor>#f6f7f9</BackgroundColor>
               <VerticalAlign>Middle</VerticalAlign>
               <PaddingLeft>2pt</PaddingLeft>
               <PaddingRight>2pt</PaddingRight>
@@ -2425,7 +2228,7 @@
               </Paragraph>
             </Paragraphs>
             <Top>2.94863cm</Top>
-            <Left>10.33728cm</Left>
+            <Left>10.28788cm</Left>
             <Height>0.6cm</Height>
             <Width>7.22558cm</Width>
             <ZIndex>11</ZIndex>
@@ -2462,8 +2265,8 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>4.25446cm</Top>
-            <Left>10.33728cm</Left>
+            <Top>4.43085cm</Top>
+            <Left>10.28788cm</Left>
             <Height>0.6cm</Height>
             <Width>7.22558cm</Width>
             <ZIndex>12</ZIndex>
@@ -2492,23 +2295,27 @@
                 <TextRuns>
                   <TextRun>
                     <Value>تصنيف العميل</Value>
-                    <Style />
+                    <Style>
+                      <FontFamily>Cairo Medium</FontFamily>
+                      <FontSize>7pt</FontSize>
+                    </Style>
                   </TextRun>
                 </TextRuns>
                 <Style>
-                  <TextAlign>Right</TextAlign>
+                  <TextAlign>Left</TextAlign>
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>4.25446cm</Top>
-            <Left>17.59108cm</Left>
+            <Top>4.44496cm</Top>
+            <Left>17.69691cm</Left>
             <Height>0.6cm</Height>
-            <Width>2.5cm</Width>
+            <Width>2.33067cm</Width>
             <ZIndex>13</ZIndex>
             <Style>
               <Border>
                 <Style>None</Style>
               </Border>
+              <BackgroundColor>#f6f7f9</BackgroundColor>
               <VerticalAlign>Middle</VerticalAlign>
               <PaddingLeft>2pt</PaddingLeft>
               <PaddingRight>2pt</PaddingRight>
@@ -2526,6 +2333,7 @@
                   <TextRun>
                     <Value>أمر بيع</Value>
                     <Style>
+                      <FontFamily>Cairo Black</FontFamily>
                       <FontSize>14pt</FontSize>
                       <FontWeight>Bold</FontWeight>
                     </Style>
@@ -2536,10 +2344,10 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>1.0922cm</Top>
-            <Left>8.81803cm</Left>
-            <Height>0.86839cm</Height>
-            <Width>2.5cm</Width>
+            <Top>0.28081cm</Top>
+            <Left>0.60781cm</Left>
+            <Height>1.16472cm</Height>
+            <Width>3.85467cm</Width>
             <ZIndex>14</ZIndex>
             <Style>
               <Border>
@@ -2561,16 +2369,19 @@
                 <TextRuns>
                   <TextRun>
                     <Value>رقم الطلب</Value>
-                    <Style />
+                    <Style>
+                      <FontFamily>Cairo SemiBold</FontFamily>
+                      <FontSize>7pt</FontSize>
+                    </Style>
                   </TextRun>
                 </TextRuns>
                 <Style>
-                  <TextAlign>Right</TextAlign>
+                  <TextAlign>Left</TextAlign>
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>2.94863cm</Top>
-            <Left>6.30868cm</Left>
+            <Top>2.94861cm</Top>
+            <Left>6.37924cm</Left>
             <Height>0.6cm</Height>
             <Width>2.5cm</Width>
             <ZIndex>15</ZIndex>
@@ -2578,6 +2389,7 @@
               <Border>
                 <Style>None</Style>
               </Border>
+              <BackgroundColor>#f6f7f9</BackgroundColor>
               <VerticalAlign>Middle</VerticalAlign>
               <PaddingLeft>2pt</PaddingLeft>
               <PaddingRight>2pt</PaddingRight>
@@ -2631,17 +2443,20 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>كود الطابع</Value>
-                    <Style />
+                    <Value>كود المستخدم</Value>
+                    <Style>
+                      <FontFamily>Cairo SemiBold</FontFamily>
+                      <FontSize>7pt</FontSize>
+                    </Style>
                   </TextRun>
                 </TextRuns>
                 <Style>
-                  <TextAlign>Right</TextAlign>
+                  <TextAlign>Left</TextAlign>
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>4.96028cm</Top>
-            <Left>6.23105cm</Left>
+            <Top>5.20724cm</Top>
+            <Left>6.37924cm</Left>
             <Height>0.6cm</Height>
             <Width>2.5cm</Width>
             <ZIndex>17</ZIndex>
@@ -2649,6 +2464,7 @@
               <Border>
                 <Style>None</Style>
               </Border>
+              <BackgroundColor>#f6f7f9</BackgroundColor>
               <VerticalAlign>Middle</VerticalAlign>
               <PaddingLeft>2pt</PaddingLeft>
               <PaddingRight>2pt</PaddingRight>
@@ -2673,8 +2489,8 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>4.96028cm</Top>
-            <Left>0.64308cm</Left>
+            <Top>5.20724cm</Top>
+            <Left>0.61487cm</Left>
             <Height>0.6cm</Height>
             <Width>5.62325cm</Width>
             <ZIndex>18</ZIndex>
@@ -2695,7 +2511,7 @@
             </Style>
           </Textbox>
         </ReportItems>
-        <Height>100.3978mm</Height>
+        <Height>110.98114mm</Height>
         <Style>
           <Border>
             <Style>None</Style>
