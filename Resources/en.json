@@ -151,6 +151,30 @@
   "RequestRejectedNotificationTitle": "Request Rejected",
   "RequestRejectedNotificationDescription": "Your request '{0}' has been rejected by {1}. Reason: {2}",
   "RequestReturnedNotificationTitle": "Request Returned for Revision",
-  "RequestReturnedNotificationDescription": "The request '{0}' has been returned to you by {1} for additional review. Comments: {2}"
+  "RequestReturnedNotificationDescription": "The request '{0}' has been returned to you by {1} for additional review. Comments: {2}",
+  "PartialMessageSent": "Successfully sent to {0} recipients, failed to send to {1}",
+  "MessageFailedToAll": "Failed to send messages to all recipients",
+  "SalesOrderSentSuccessfully": "Sales order sent successfully",
+  "OrderDeliveryNotificationTitle": "Order Delivery Notification",
+  "OrderDeliveryNotificationDescription": "The order is now out for delivery",
+  "OrderDeliveryNotificationManagerDescription": "Order {0} is now out for delivery with driver {1}",
+  "OrderDeliveredTitle": "Order Delivered",
+  "OrderDeliveredDescription": "Order {0} has been delivered to client. Invoice is attached.",
+  "OrderDeliveredManagerDescription": "Order {0} has been delivered to client by driver {1}. Invoice is attached.",
+  "WarehouseNotificationTitle": "Order Delivery Confirmation",
+  "WarehouseNotificationDescription": "Delivery note for order {0} has been given to the client",
+  "ApprovalStepApprovedNotificationTitle": "Request Approved",
+  "ApprovalStepApprovedNotificationDescription": "Your request '{0}' has been approved by {1}",
+  "ApprovalStepApprovedManagerNotificationTitle": "Team Member Request Approved",
+  "ApprovalStepApprovedManagerNotificationDescription": "Request '{0}' from your team member {1} has been approved by {2}",
 
+  "RejectionCreatorNotificationDescription": "Your request '{0}' was rejected by {1}",
+  "RejectionManagerNotificationDescription": "Request '{0}' from your team member {1} was rejected by {2}",
+
+  "RollbackNotificationTitle": "Request Rolled Back",
+  "RollbackCreatorNotificationDescription": "Your request '{0}' was rolled back by {2}. Reason: {1}",
+  "RollbackManagerNotificationDescription": "Request '{0}' from your team member {1} was rolled back by {3}. Reason: {2}",
+  "CustomerStatusChangedTitle": "Customer Status Changed",
+  "CustomerStatusChangedMessage": "Customer '{0}' status changed to inactive",
+  "CustomerStatusChangedManagerMessage": "Customer '{0}' (assigned to {1}) status changed to inactive"
 }

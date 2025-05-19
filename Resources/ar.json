@@ -152,5 +152,30 @@
   "RequestRejectedNotificationTitle": "تم رفض الطلب",
   "RequestRejectedNotificationDescription": "تم رفض طلبك '{0}' من قبل {1}. السبب: {2}",
   "RequestReturnedNotificationTitle": "تم إرجاع الطلب للمراجعة",
-  "RequestReturnedNotificationDescription": "تم إرجاع الطلب '{0}' إليك من قبل {1} لمراجعة إضافية. التعليقات: {2}"
+  "RequestReturnedNotificationDescription": "تم إرجاع الطلب '{0}' إليك من قبل {1} لمراجعة إضافية. التعليقات: {2}",
+  "PartialMessageSent": "تم الإرسال بنجاح إلى {0}، فشل الإرسال إلى {1}",
+  "MessageFailedToAll": "فشل إرسال الرسائل إلى جميع المستلمين",
+  "SalesOrderSentSuccessfully": "تم إرسال طلب المبيعات بنجاح",
+  "OrderDeliveryNotificationTitle": "إشعار توصيل الطلب",
+  "OrderDeliveryNotificationDescription": "الطلب الآن في طريق التوصيل",
+  "OrderDeliveryNotificationManagerDescription": "الطلب {0} الآن في طريق التوصيل مع السائق {1}",
+  "OrderDeliveredTitle": "تم توصيل الطلب",
+  "OrderDeliveredDescription": "تم توصيل الطلب {0} إلى العميل. الفاتورة مرفقة.",
+  "OrderDeliveredManagerDescription": "تم توصيل الطلب {0} إلى العميل بواسطة السائق {1}. الفاتورة مرفقة.",
+  "WarehouseNotificationTitle": "تأكيد توصيل الطلب",
+  "WarehouseNotificationDescription": "تم تسليم إذن الصرف للطلب {0} إلى العميل",
+  "ApprovalStepApprovedNotificationTitle": "تمت الموافقة على الطلب",
+  "ApprovalStepApprovedNotificationDescription": "تمت الموافقة على طلبك '{0}' بواسطة {1}",
+  "ApprovalStepApprovedManagerNotificationTitle": "تمت الموافقة على طلب عضو الفريق",
+  "ApprovalStepApprovedManagerNotificationDescription": "تمت الموافقة على الطلب '{0}' من عضو فريقك {1} بواسطة {2}",
+
+  "RejectionCreatorNotificationDescription": "تم رفض طلبك '{0}' بواسطة {1}",
+  "RejectionManagerNotificationDescription": "تم رفض الطلب '{0}' من عضو فريقك {1} بواسطة {2}",
+
+  "RollbackNotificationTitle": "تم استرجاع الطلب",
+  "RollbackCreatorNotificationDescription": "تم استرجاع طلبك '{0}' بواسطة {2}. السبب: {1}",
+  "RollbackManagerNotificationDescription": "تم استرجاع الطلب '{0}' من عضو فريقك {1} بواسطة {3}. السبب: {2}",
+  "CustomerStatusChangedTitle": "تغيير حالة العميل",
+  "CustomerStatusChangedMessage": "تم تغيير حالة العميل '{0}' إلى غير نشط",
+  "CustomerStatusChangedManagerMessage": "العميل '{0}' (المخصص لـ {1}) تم تغيير حالته إلى غير نشط"
 }
