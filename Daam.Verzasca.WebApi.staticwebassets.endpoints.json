@@ -1,52 +1,7 @@
 {
   "Version": 1,
-  "ManifestType": "Build",
+  "ManifestType": "Publish",
   "Endpoints": [
-    {
-      "Route": "reports/CollectionReport.c8diiecf5b.rdl",
-      "AssetFile": "reports/CollectionReport.rdl",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "94893"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hCLFJ9VIP0jZ83f+XlYE+xkk250Skqru0yu6EHz88yg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 22:01:03 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c8diiecf5b"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hCLFJ9VIP0jZ83f+XlYE+xkk250Skqru0yu6EHz88yg="
-        },
-        {
-          "Name": "label",
-          "Value": "reports/CollectionReport.rdl"
-        }
-      ]
-    },
     {
       "Route": "reports/CollectionReport.rdl",
       "AssetFile": "reports/CollectionReport.rdl",
@@ -62,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "94893"
+          "Value": "95472"
         },
         {
           "Name": "Content-Type",
@@ -70,17 +25,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hCLFJ9VIP0jZ83f+XlYE+xkk250Skqru0yu6EHz88yg=\""
+          "Value": "\"ZKFVJParsAXTAKWMdjJSUBKm5/WQQ2p3Mc+zWaEp+Oc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 22:01:03 GMT"
+          "Value": "Wed, 21 May 2025 00:29:47 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hCLFJ9VIP0jZ83f+XlYE+xkk250Skqru0yu6EHz88yg="
+          "Value": "sha256-ZKFVJParsAXTAKWMdjJSUBKm5/WQQ2p3Mc+zWaEp+Oc="
+        }
+      ]
+    },
+    {
+      "Route": "reports/CollectionReport.s8qzvo1k3e.rdl",
+      "AssetFile": "reports/CollectionReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZKFVJParsAXTAKWMdjJSUBKm5/WQQ2p3Mc+zWaEp+Oc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 00:29:47 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8qzvo1k3e"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZKFVJParsAXTAKWMdjJSUBKm5/WQQ2p3Mc+zWaEp+Oc="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/CollectionReport.rdl"
         }
       ]
     },
