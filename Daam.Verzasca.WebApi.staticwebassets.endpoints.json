@@ -659,6 +659,88 @@
       ]
     },
     {
+      "Route": "reports/TargetSalseAndCollectionReport.baz4jld151.rdl",
+      "AssetFile": "reports/TargetSalseAndCollectionReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "163612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xf1qXu/zttfy2m6togHb62BUypLX8OG4hkb0DD6BX6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 03:29:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "baz4jld151"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xf1qXu/zttfy2m6togHb62BUypLX8OG4hkb0DD6BX6Y="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/TargetSalseAndCollectionReport.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/TargetSalseAndCollectionReport.rdl",
+      "AssetFile": "reports/TargetSalseAndCollectionReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "163612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xf1qXu/zttfy2m6togHb62BUypLX8OG4hkb0DD6BX6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 03:29:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xf1qXu/zttfy2m6togHb62BUypLX8OG4hkb0DD6BX6Y="
+        }
+      ]
+    },
+    {
       "Route": "reports/TaskTeamDetail.cciimjn4b6.rdl",
       "AssetFile": "reports/TaskTeamDetail.rdl",
       "Selectors": [],
