@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "ManifestType": "Build",
+  "ManifestType": "Publish",
   "Endpoints": [
     {
       "Route": "reports/CollectionReport.rdl",
@@ -685,7 +685,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 03:29:46 GMT"
+          "Value": "Thu, 22 May 2025 04:02:16 GMT"
         }
       ],
       "EndpointProperties": [
@@ -730,7 +730,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 03:29:46 GMT"
+          "Value": "Thu, 22 May 2025 04:02:16 GMT"
         }
       ],
       "EndpointProperties": [
