@@ -9,7 +9,7 @@
       <am:Name>MSRB</am:Name>
       <am:Version>15.0.20283.0</am:Version>
     </am:UpdatedBy>
-    <am:LastModifiedTimestamp>2025-05-27T23:33:58.4434806Z</am:LastModifiedTimestamp>
+    <am:LastModifiedTimestamp>2025-06-26T10:48:31.3559586Z</am:LastModifiedTimestamp>
   </am:AuthoringMetadata>
   <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
   <AutoRefresh>0</AutoRefresh>
@@ -30,6 +30,32 @@
         <DataSourceName>DsReport</DataSourceName>
         <CommandText>/* Local Query */</CommandText>
       </Query>
+      <Fields>
+        <Field Name="AgentId">
+          <DataField>AgentId</DataField>
+          <rd:UserDefined>true</rd:UserDefined>
+        </Field>
+        <Field Name="AgentName">
+          <DataField>AgentName</DataField>
+          <rd:UserDefined>true</rd:UserDefined>
+        </Field>
+        <Field Name="InvoiceCount">
+          <DataField>InvoiceCount</DataField>
+          <rd:UserDefined>true</rd:UserDefined>
+        </Field>
+        <Field Name="TotalInvoices">
+          <DataField>TotalInvoices</DataField>
+          <rd:UserDefined>true</rd:UserDefined>
+        </Field>
+        <Field Name="AveragePurchaseValue">
+          <DataField>AveragePurchaseValue</DataField>
+          <rd:UserDefined>true</rd:UserDefined>
+        </Field>
+        <Field Name="MonthlyOrderAverage">
+          <DataField>MonthlyOrderAverage</DataField>
+          <rd:UserDefined>true</rd:UserDefined>
+        </Field>
+      </Fields>
     </DataSet>
   </DataSets>
   <ReportSections>
@@ -405,14 +431,14 @@
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
-                        <Textbox Name="Textbox7">
+                        <Textbox Name="MonthlyOrderAverage">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value />
+                                  <Value>=Fields!MonthlyOrderAverage.Value</Value>
                                   <Style />
                                 </TextRun>
                               </TextRuns>
@@ -421,7 +447,7 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>Textbox7</rd:DefaultName>
+                          <rd:DefaultName>MonthlyOrderAverage</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -457,14 +483,14 @@
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
-                        <Textbox Name="InvoiceValue">
+                        <Textbox Name="AveragePurchaseValue">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value />
+                                  <Value>=Fields!AveragePurchaseValue.Value</Value>
                                   <Style>
                                     <Format>0.00;(0.00);'-'</Format>
                                   </Style>
@@ -475,7 +501,7 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>InvoiceValue</rd:DefaultName>
+                          <rd:DefaultName>AveragePurchaseValue</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -511,14 +537,14 @@
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
-                        <Textbox Name="SalespersonName">
+                        <Textbox Name="TotalInvoices">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value />
+                                  <Value>=Fields!TotalInvoices.Value</Value>
                                   <Style>
                                     <Format>0.00;(0.00)</Format>
                                   </Style>
@@ -529,7 +555,7 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>SalespersonName</rd:DefaultName>
+                          <rd:DefaultName>TotalInvoices</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -565,14 +591,14 @@
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
-                        <Textbox Name="City">
+                        <Textbox Name="InvoiceCount">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value />
+                                  <Value>=Fields!InvoiceCount.Value</Value>
                                   <Style />
                                 </TextRun>
                               </TextRuns>
@@ -581,7 +607,7 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>City</rd:DefaultName>
+                          <rd:DefaultName>InvoiceCount</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -617,14 +643,14 @@
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
-                        <Textbox Name="CustomerName">
+                        <Textbox Name="AgentName">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value />
+                                  <Value>=Fields!AgentName.Value</Value>
                                   <Style />
                                 </TextRun>
                               </TextRuns>
@@ -633,7 +659,7 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>CustomerName</rd:DefaultName>
+                          <rd:DefaultName>AgentName</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -669,14 +695,14 @@
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
-                        <Textbox Name="Id">
+                        <Textbox Name="AgentId">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value />
+                                  <Value>=Fields!AgentId.Value</Value>
                                   <Style />
                                 </TextRun>
                               </TextRuns>
@@ -685,7 +711,7 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>Id</rd:DefaultName>
+                          <rd:DefaultName>AgentId</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -744,7 +770,7 @@
               </TablixMembers>
             </TablixRowHierarchy>
             <DataSetName>DsReport</DataSetName>
-            <Top>3.34212cm</Top>
+            <Top>4.29462cm</Top>
             <Left>1.07348cm</Left>
             <Height>1.58099cm</Height>
             <Width>19.0176cm</Width>
@@ -829,8 +855,45 @@
               </Border>
             </Style>
           </Image>
+          <Textbox Name="Textbox3">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>تقرير المبيعات الشامل</Value>
+                    <Style>
+                      <FontSize>14pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>Underline</TextDecoration>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Center</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox3</rd:DefaultName>
+            <Top>2.2352cm</Top>
+            <Left>8.3947cm</Left>
+            <Height>1.00217cm</Height>
+            <Width>4.7329cm</Width>
+            <ZIndex>3</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <VerticalAlign>Middle</VerticalAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
         </ReportItems>
-        <Height>56.37113mm</Height>
+        <Height>67.3778mm</Height>
         <Style>
           <Border>
             <Style>None</Style>
@@ -838,7 +901,7 @@
           <BackgroundColor>White</BackgroundColor>
         </Style>
       </Body>
-      <Width>215.387mm</Width>
+      <Width>211.36532mm</Width>
       <Page>
         <PageFooter>
           <Height>1.41139cm</Height>
